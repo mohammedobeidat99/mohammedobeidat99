@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamemd obeidat</h1>
-<h3 align="center">A passionate Mobile application div-Flutter from Jordan</h3>
+<h3 align="center"> Mobile application Developer-Flutter from Jordan</h3>
 
 
 <p align="left"> <a href="https://twitter.com/mohammedob99" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedob99?logo=twitter&style=for-the-badge" alt="mohammedob99" /></a> </p>
